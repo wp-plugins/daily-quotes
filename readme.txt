@@ -60,7 +60,7 @@ After entering both options, just click save and visit your site.
 = Need it customized? =
 
 Not exactly what you're looking for, but it's close? We can help you get the exact feature set for your requirements.
-Let's have a [quick chat!] (http://bobcares.com/contacts/)
+Let's have a [quick chat!](http://bobcares.com/contacts/)
 
 
 == Upgrade Notice ==
