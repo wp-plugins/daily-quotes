@@ -1,0 +1,26 @@
+/* 
+    Document   : CSS
+    Created on : Sept 26, 2014
+    Author     : Bobcares geethu.n@poornam.com>
+    Description: styles for the Daily Quotes widget
+*/
+
+.quote-widget-body{
+    margin: 5%;
+}
+
+.quote-widget-title{
+    background: none repeat scroll 0 0 #282524;
+    color: #FFFFFF;
+    font-size: 34px;
+    font-style: italic;
+    font-weight: bold !important;
+    letter-spacing: 0;
+    padding: 8px;
+}
+.quotes-author{
+    font-size: 18px;
+    color: #CC3300;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #E5E5E5;
+}
