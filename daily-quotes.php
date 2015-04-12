@@ -3,8 +3,8 @@
  * Plugin Name: Daily Quotes
  * Description: A widget that displays daily inspirational quotes
  * Version: 1.0.0
- * Author: Bobcares <geethu.n@poornam.com>
- * Author URI: http://www.poornam.com/
+ * Author: Bobcares
+ * Author URI: http://www.bobcares.com/
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
@@ -50,7 +50,7 @@ if (!function_exists('writeLog')) {
 
 /**
  * function to register the widget "daily_quotes"
- * @author Bobcares <geethu.n@poornam.com>
+ * @author Bobcares 
  */
 function daily_quotes_load_widgets() {
     register_widget("Daily_Quotes");
@@ -58,7 +58,7 @@ function daily_quotes_load_widgets() {
 
 /**
  * function to enqueue the styles and scripts used in the widget "daily_quotes"
- * @author Bobcares <geethu.n@poornam.com>
+ * @author Bobcares 
  */
 function daily_quotes_enqueue_scripts() {
     wp_enqueue_style("styles", plugin_dir_url(__FILE__) . "styles.css");
@@ -68,7 +68,7 @@ function daily_quotes_enqueue_scripts() {
 /**
  * Daily_Quotes: Class which contains the functions for the display of the Daily Quote widget
  *
- * @author  Bobcares <geethu.n@poornam.com>
+ * @author  Bobcares 
  */
 class Daily_Quotes extends WP_Widget {
 
@@ -105,7 +105,7 @@ class Daily_Quotes extends WP_Widget {
      *
      * @param 	Array 	$args	array of arguments
      * @param	Object	$instance	widget instance
-     * @author  Bobcares <geethu.n@poornam.com>
+     * @author  Bobcares 
      */
     function widget($args, $instance) {
         global $post;
@@ -126,7 +126,7 @@ class Daily_Quotes extends WP_Widget {
      * @param	Object	$newInstance	New instance of the widget
      * @param	Object	$oldInstance	Old instance of the widget
      * @return	Object	updated instance of the widget
-     * @author  Bobcares <geethu.n@poornam.com>
+     * @author  Bobcares 
      */
     function update($newInstance, $oldInstance) {
         $instance = $oldInstance;
@@ -154,7 +154,7 @@ class Daily_Quotes extends WP_Widget {
     /**
      * Displays the widget settings on the widget panel in admin area.
      * @param	Object	Widget instance
-     * @author  Bobcares <geethu.n@poornam.com>
+     * @author  Bobcares 
      */
     function form($instance) {
 

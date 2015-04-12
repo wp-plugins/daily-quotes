@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name - daily-quotes
- * @author     Bobcares <geethu.n@poornam.com>
+ * @author     Bobcares 
  * @link      http://www.bobcares.com/
- * @copyright Copyright 2014, poornam.com
+ * @copyright Copyright 2014, bobcares.com
  */
 
 
@@ -42,7 +42,7 @@ if (!function_exists('writeLog')) {
  * Plugin class. This class is used to work with the
  * public-facing side of the WordPress site.
  *
- * @author  Bobcares <geethu.n@poornam.com>
+ * @author  Bobcares 
  */
 class Quotery_Quote {
 

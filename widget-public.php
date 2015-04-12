@@ -1,10 +1,11 @@
 <?php
 /**
  * PHP File - Created on Sept, 26
- * @copyright Copyright 2014, poornam.com
- * @author    Bobcares <geethu.n@poornam.com>
+ * @copyright Copyright 2014, bobcares.com
+ * @author    Bobcares 
  *
  */
+
 ?>
 
 <!-- Added division to display border color -->
