@@ -1,11 +1,21 @@
 <?php
 /**
- * Plugin Name - daily-quotes
- * @author     Bobcares 
- * @link      http://www.bobcares.com/
- * @copyright Copyright 2014, bobcares.com
+ * Plugin Name.
+ *
+ * @package   Quotery_Quote
+ * @author    Quotery <contact@quotery.com>
+ * @license   GPL-2.0+
+ * @link      http://www.quotery.com
+ * @copyright 2014 Quotery
  */
 
+/**
+ * Plugin class. This class is used to work with the
+ * public-facing side of the WordPress site.
+ *
+ * @package Quotery_Quote
+ * @author  Quotery <contact@quotery.com>
+ */
 
 /*
  * fucntion to display contents in the webpage
@@ -42,7 +52,6 @@ if (!function_exists('writeLog')) {
  * Plugin class. This class is used to work with the
  * public-facing side of the WordPress site.
  *
- * @author  Bobcares 
  */
 class Quotery_Quote {
 
@@ -68,8 +77,6 @@ class Quotery_Quote {
 	protected $quotes_url 				= 'http://www.quotery.com/api/qod/';
 	protected $quotes_categories_url 	= 'http://www.quotery.com/api/qod/get/categories/';
         
-	// protected $quotes_url 				= 'http://localhost/wp/quotery/api/qod/';
-	// protected $quotes_categories_url 	= 'http://localhost/wp/quotery/api/qod/get/categories/';
 
 
 	/**
