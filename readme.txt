@@ -1,5 +1,5 @@
 === Daily Quotes  ===
-Contributors: bobcares
+Contributors: bobcares_plugins
 Tags: daily_quotes,quote,dailyquote,quote_of_the_day
 Requires at least: 3.0.1
 Tested up to: 4.1
