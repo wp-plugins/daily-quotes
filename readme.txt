@@ -59,7 +59,7 @@ After entering both options, just click save and visit your site.
 
 = Need it customized? =
 
-Not exactly what you're looking for, but it's close? We can help you get the exact feature set for your requirements.
+Not exactly what you're looking for, but it's close? At [Bobcares](http://bobcares.com/software-and-design-services/wordpress-plugins.html), we can help you get the exact feature set for your requirements.
 Let's have a [quick chat!](http://bobcares.com/contacts/)
 
 
