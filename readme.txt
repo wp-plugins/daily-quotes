@@ -1,6 +1,6 @@
 === Daily Quotes  ===
 Contributors: bobcares_plugins
-Tags: daily_quotes,quote,dailyquote,quote_of_the_day
+Tags: daily quotes, quotes, daily quote, quote of the day, inspirational quotes
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0
